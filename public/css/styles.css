@@ -39,7 +39,8 @@ header a {
 }
 
 .portrait {
-    width: 250px;
+    width: 100px;
+    height: 150px;
 }
 
 input {
@@ -54,4 +55,3 @@ button {
     color: black;
     padding: 10px;
 }
-
